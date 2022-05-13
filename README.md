@@ -1,7 +1,6 @@
 ### Hello World, me chamo Ronaldo e estou estudando FrontEnd
 
 - 🌱 Iniciando estudo no frontend e praticando C
-- 💬 Meu email: marinhoronaldo02@gmail.com
 
 <div align="center">
   <a href="https://github.com/RonaldoMarin/RonaldoMarin">
