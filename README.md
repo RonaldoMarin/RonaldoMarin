@@ -1,7 +1,3 @@
-### Hello World, me chamo Ronaldo e estou estudando FrontEnd
-
-- 🌱 Iniciando estudo no frontend e praticando C
-
 <div align="center">
   <a href="https://github.com/RonaldoMarin/RonaldoMarin">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=RonaldoMarin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
