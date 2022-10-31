@@ -1,22 +1,36 @@
-<div align="center">
-  <a href="https://github.com/RonaldoMarin/RonaldoMarin">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=RonaldoMarin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoMarin&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Roni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Roni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Roni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Roni-C" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Roni-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
- ## 
- 
- <div> 
-  <a href="https://www.instagram.com/ronaldomarinh0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+<h1> Opa, me chamo Ronaldo Marinho! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"width="30px"></h1>
+
+- 🔥 Desenvolvedor FrontEnd jr
+
+- 📚 Desenvolvo alguns projetos a nível de estudo
+
+- 👨‍💻 Todos os meus projetos estão disponíveis em [🚨 Portifólio em construção]()
+
+<br><br>
+
+## 🛠 &nbsp; Tecnologias que eu domino
+
+<img align="center" alt="HTML5" 
+src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="CSS3" 
+src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="JavaScript"
+src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img align="center" alt="Python"
+src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt="C"
+src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+
+## ⚙ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=RonaldoMarin&show_icons=true&theme=dracula" alt="RonaldoMarin's stats"/>
+
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoMarin&layout=compact&theme=dracula" alt="RonaldoMarin's most languages"/>
+</p>
+
+<br><br>
+
+## &nbsp;Social Links
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-ronaldo-marinho/)
