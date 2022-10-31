@@ -23,10 +23,10 @@ src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=
 
 ## ⚙ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=RonaldoMarin&show_icons=true&theme=dracula" alt="RonaldoMarin's stats"/>
-
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoMarin&layout=compact&theme=dracula" alt="RonaldoMarin's most languages"/>
+<p align="left"><img width="530em"
+src="https://github-readme-stats.vercel.app/api?username=RonaldoMarin&show_icons=true&theme=dracula" alt="RonaldoMarin's stats"/>
+<img width="530em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoMarin&layout=compact&theme=dracula" alt="RonaldoMarin's most languages"/>
 </p>
 
 <br><br>
