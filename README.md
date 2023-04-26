@@ -22,8 +22,6 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
 ## ⚙ &nbsp;GitHub Analytics
 
 <p align="left"><img width="530em"
-src="https://github-readme-stats.vercel.app/api?username=RonaldoMarin&show_icons=true&theme=dracula" alt="RonaldoMarin's stats"/>
-<img width="530em"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoMarin&layout=compact&theme=dracula" alt="RonaldoMarin's most languages"/>
 </p>
 
