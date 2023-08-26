@@ -1,6 +1,6 @@
 <h1> Opa, me chamo Ronaldo Marinho! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"width="30px"></h1>
 
-- 🔥 Desenvolvedor FrontEnd jr
+- 🔥 Desenvolvedor RPA
 
 - 📚 Desenvolvo alguns projetos a nível de estudo
 
