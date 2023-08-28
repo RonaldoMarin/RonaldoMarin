@@ -2,8 +2,6 @@
 
 - 🔥 Desenvolvedor RPA
 
-- 📚 Desenvolvo alguns projetos a nível de estudo
-
 - 👨‍💻 Todos os meus projetos estão disponíveis em [🚨 Portifólio em construção]()
 
 <br>
